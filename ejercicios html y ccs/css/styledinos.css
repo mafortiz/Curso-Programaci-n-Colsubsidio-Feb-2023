@@ -1,0 +1,14 @@
+    html{
+        background-color: rgb(165, 231, 209);
+    }
+    h1{
+        background-color: rgb(192, 238, 220);
+        color: brown;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;}
+    h2{
+       font-family: 'Times New Roman', Times, serif; 
+    }
+    p{
+        font-family: 'Times New Roman', Times, serif; text-align: justify;
+    }

@@ -1,0 +1,13 @@
+html{
+    background-color: rgb(165, 231, 209);
+}
+table{
+    background-color: rgb(235, 171, 75);
+    border: solid 2px blue;
+    border-collapse: collapse;
+    color: black;
+}
+td, th{
+    border: rgb(124, 124, 241) 1px solid;
+    padding: 3px;
+}
